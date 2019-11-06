@@ -5,10 +5,10 @@
 **BASE_URL:** https://my-json-server.typicode.com/HelAsia/mvpFakeServer/
 
 **ENDPOINTS:**
-    - @POST("users/")
-    - @PUT("users/{userId}/")
-    - @GET("users/")
-    - @DELETE("users/{userId}/")
+- @POST("users/")
+- @PUT("users/{userId}/")
+- @GET("users/")
+- @DELETE("users/{userId}/")
 
 Users in database:
 
