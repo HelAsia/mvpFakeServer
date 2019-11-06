@@ -1,5 +1,5 @@
 # MVP Fake Server
----
+
 ### Fake server for MVP example based on repository: https://my-json-server.typicode.com/
 
 **BASE_URL:** https://my-json-server.typicode.com/HelAsia/mvpFakeServer/
